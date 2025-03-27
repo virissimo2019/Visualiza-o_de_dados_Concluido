@@ -1,4 +1,4 @@
-# Visualiza-o_de_dados_Concluido
+# Visualização_de_dados.
 Este repositório contém um notebook do Google Colab dedicado à análise e visualização de dados do conjunto de dados Bank Marketing da UCI Machine Learning Repository.
 
 O objetivo principal deste projeto é explorar e visualizar os dados do Bank Marketing para entender padrões e relações entre as variáveis, especialmente no contexto da aceitação ou recusa de ofertas bancárias.
